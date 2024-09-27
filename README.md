@@ -28,3 +28,4 @@ Copy paste your desired YouTube link you want to talk to.
 
 Run All and go to bottom for the chat UI to show up! Enjoy!
 
+![image](https://github.com/user-attachments/assets/c30caab2-cd6a-40b6-8a58-2320d1a3f4b1)
